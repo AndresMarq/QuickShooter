@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		926E8825285E942D005AD031 /* explosion.sks in Resources */ = {isa = PBXBuildFile; fileRef = 926E8824285E942D005AD031 /* explosion.sks */; };
 		92EF621728584105008E51C6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92EF621628584105008E51C6 /* AppDelegate.swift */; };
 		92EF621928584105008E51C6 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 92EF621828584105008E51C6 /* GameScene.sks */; };
 		92EF621D28584105008E51C6 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92EF621C28584105008E51C6 /* GameScene.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		926E8824285E942D005AD031 /* explosion.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; name = explosion.sks; path = "../../../../Downloads/HackingWithSwift-main/Classic/project17-files/Content/explosion.sks"; sourceTree = "<group>"; };
 		92EF621328584105008E51C6 /* QuickShooter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QuickShooter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		92EF621628584105008E51C6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		92EF621828584105008E51C6 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 				92EF622028584105008E51C6 /* Main.storyboard */,
 				92EF622328584107008E51C6 /* Assets.xcassets */,
 				92EF622528584107008E51C6 /* LaunchScreen.storyboard */,
+				926E8824285E942D005AD031 /* explosion.sks */,
 			);
 			path = QuickShooter;
 			sourceTree = "<group>";
@@ -129,6 +132,7 @@
 				92EF622228584105008E51C6 /* Main.storyboard in Resources */,
 				92EF621928584105008E51C6 /* GameScene.sks in Resources */,
 				92EF622428584107008E51C6 /* Assets.xcassets in Resources */,
+				926E8825285E942D005AD031 /* explosion.sks in Resources */,
 				92EF622728584107008E51C6 /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
